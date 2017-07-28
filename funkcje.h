@@ -5,5 +5,4 @@
 
 using namespace std;
 
-void kwadraty();
-void klawiatura();
+

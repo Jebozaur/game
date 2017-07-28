@@ -5,3 +5,23 @@
 	<iostream>
 	<time.h>
 
+1501255871 source:/home/jakub/game/main.cpp
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<iostream>
+	<time.h>
+	"funkcje.h"
+
+1501255364 /home/jakub/game/funkcje.h
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<iostream>
+	<time.h>
+
+1501255364 source:/home/jakub/game/funkcje.cpp
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<iostream>
+	<time.h>
+	"funkcje.h"
+
